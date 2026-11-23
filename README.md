@@ -284,7 +284,7 @@ The target was fully compromised by chaining outdated software, unencrypted prot
 ```
 Network-Security-Project/
 ├── README.md
-├── images/                 # 20 figures from the report (named by what they show)
+├── images/                 
 └── code/
     ├── 01-environment-and-discovery.sh
     ├── 02-system-discovery.sh
