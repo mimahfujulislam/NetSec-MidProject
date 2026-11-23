@@ -1,8 +1,3 @@
-#!/usr/bin/env bash
-#
-# Phase 1 - Target Selection and Environment Preparation
-# Verifying the isolated lab network and locating the target host.
-#
 # Lab setup (done in the VirtualBox GUI, no shell commands):
 #   - Target: "Basic Pentesting 1" (VulnHub), imported from its .ova file.
 #   - NAT Network "NatNetwork", IPv4 range 192.168.10.0/24, DHCP enabled.
