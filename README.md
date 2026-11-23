@@ -1,4 +1,4 @@
-# Network Security Project — Basic Pentesting 1 (VulnHub)
+# Network Security Project — Basic Pentesting 1 
 
 A full penetration-testing assessment of the intentionally vulnerable **Basic Pentesting 1** virtual machine from VulnHub. The assessment runs the complete chain — environment setup, system discovery, network traffic analysis, exploitation, and password cracking — using standard tools (Nmap, WhatWeb, Nikto, Wireshark, Metasploit, and John the Ripper), and ends with a security analysis and recommended countermeasures.
 
